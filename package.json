@@ -1,0 +1,19 @@
+{
+  "name": "naive-ui-locale-ru",
+  "version": "0.0.0",
+  "description": "Russian locale for naive-ui",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n-at/naive-ui-locale-ru.git"
+  },
+  "author": "n-at",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n-at/naive-ui-locale-ru/issues"
+  },
+  "homepage": "https://github.com/n-at/naive-ui-locale-ru#readme",
+  "dependencies": {
+    "date-fns": "^2.19.0"
+  }
+}
