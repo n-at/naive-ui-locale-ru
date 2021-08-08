@@ -1,6 +1,6 @@
 {
   "name": "naive-ui-locale-ru",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Russian locale for naive-ui",
   "main": "index.js",
   "repository": {
